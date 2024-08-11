@@ -1,2 +1,7 @@
-# Wiki_Lookup
-Find internal links from Wikipedia pages and filter by human prop categories
+# How to use
+Execute script using python3 and give the Full name you are looking for internal links
+
+'''
+test
+'''
+
