@@ -121,6 +121,8 @@ def rechercher_sur_wikipedia(nom):
         print(f"Erreur HTTP {response.status_code} lors de l'appel à l'API.")
         return {}
 
-# Exemple d'utilisation
-nom_propre = "Reinhold Messner"
+# Demander à l'utilisateur de saisir un nom propre
+nom_propre = input("Entrez le nom propre à rechercher sur Wikipédia: ")
+
+# Rechercher et afficher les résultats
 liens_personnes = rechercher_sur_wikipedia(nom_propre)
