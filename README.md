@@ -3,7 +3,7 @@ Execute script using python3 and give the Full name you are looking for internal
 The script will lookup for pages related to the full name you gave and extract internal links.
 
 ```bash
-➜  Wikipedia python3 wiki_lookup.py
+max@main_server:~$ python3 wiki_lookup.py
 Entrez le nom propre à rechercher sur Wikipédia: Reinhold Messner
 Résultats de recherche pour 'Reinhold Messner':
 Recherche des liens pour l'article: Reinhold Messner
