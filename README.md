@@ -1,5 +1,5 @@
 # How to use
-Execute script using python3 and give the Full name you are looking for internal links.\n
+Execute script using python3 and give the Full name you are looking for internal links.
 The script will lookup for pages related to the full name you gave and extract internal links.
 
 ```bash
